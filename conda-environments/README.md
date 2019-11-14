@@ -31,7 +31,7 @@ or
 (3) Enter your environment by running:
 
 - Ubuntu/MacOS: ``source activate nameoftheenv`` (i.e. ``source activate dlc-macOS-CPU``)
-- Windows: ``activate nameoftheenv`` (i.e. ``activate dlc-windowsGPU``)
+- Windows: ``conda activate nameoftheenv`` (i.e. ``conda activate dlc-windowsGPU``)
 
 Now you should see (nameofenv) on the left of your teminal screen, i.e. ``(dlc-macOS-CPU) YourName-MacBook...``
 NOTE: DO NOT run pip install deeplabcut, etc! It is already installed!!! :)
